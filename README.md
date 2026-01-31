@@ -39,14 +39,22 @@
 
 ---
 
-## 🔴 CA FINAL
-*The Finish Line*
+## 🎓 CA Final & Mandatory SPOM
+*Final-stage technical resources and online modules.*
 
-* **P1: Financial Reporting** — [Link](https://www.icai.org/post/sm-final-p1-may2026)
-* **P2: Adv. Financial Mgmt** — [Link](https://www.icai.org/post/sm-final-p2-may2026)
-* **P3: Adv. Audit & Ethics** — [Link](https://www.icai.org/post/sm-final-p3-may2026)
-* **P4: Direct Tax & Int. Tax** — [Link](https://www.icai.org/post/sm-final-p4-may-nov2026)
-* **P5: Indirect Tax Laws** — [Link](https://www.icai.org/post/sm-final-p5-may-aug-2025)
+### **Self-Paced Online Modules (SPOM)**
+| Set | Module Name | Study Material | Practice Resources |
+| :--- | :--- | :--- | :--- |
+| **Set A** | Corporate & Economic Laws | [📚 Download](https://www.icai.org/post/self-paced-online-modules-set-a-nset) | [📑 MTP Question](https://boslive.icai.org/education_content_modelTestPapers.php?c=Self-Paced%20Online%20Modules) |
+| **Set B** | Strat. Cost & Perf. Mgmt | [📚 Download](https://www.icai.org/post/self-paced-online-modules-set-b-nset) | [📙 Case Booklet](https://www.icai.org/post/self-paced-online-modules-nset) |
+
+### **CA Final Core Subjects**
+| Paper | Subject | Study Material | Case Scenario Booklet |
+* **P1: Financial Reporting** — [Link](https://www.icai.org/post/sm-final-p1-may2026)| [MCQ Bank](https://resource.cdn.icai.org/84463bos68036p1.pdf)
+* **P2: Adv. Financial Mgmt** — [Link](https://www.icai.org/post/sm-final-p2-may2026)| [MCQ Bank](https://resource.cdn.icai.org/84464bos68036p2.pdf)
+* **P3: Adv. Audit & Ethics** — [Link](https://www.icai.org/post/sm-final-p3-may2026)| [MCQ Bank](https://resource.cdn.icai.org/84465bos68036p3.pdf)
+* **P4: Direct Tax & Int. Tax** — [Link](https://www.icai.org/post/sm-final-p4-may-nov2026)| [MCQ Bank](https://resource.cdn.icai.org/84928bos-aps49-finalpaper4.pdf)
+* **P5: Indirect Tax Laws** — [Link](https://www.icai.org/post/sm-final-p5-may-aug-2025)| [MCQ Bank](https://resource.cdn.icai.org/84466bos68036p5.pdf)
 * **P6: Integrated Solutions (IBS)** — [Link](https://www.icai.org/post/19442)
 
 ---
